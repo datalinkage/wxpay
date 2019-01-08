@@ -30,7 +30,7 @@ thinkphp5.0
 ```
 <?php
 namespace app\index\controller;
-vendor("ekeylee.wxpay.Wxpay");
+vendor("datalinkage.wxpay.Wxpay");
 class Index
 {
     public function index()
