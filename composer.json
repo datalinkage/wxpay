@@ -1,0 +1,14 @@
+{
+    "name": "datalinkage/wxpay",
+    "description": "微信支付 Thinkphp5.*",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "李益达",
+            "email": "ekey.lee@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
