@@ -31,7 +31,7 @@ thinkphp5.0
 <?php
 namespace app\index\controller;
 vendor("datalinkage.wxpay.Wxpay");
-class Index
+class Index 
 {
     public function index()
     {
