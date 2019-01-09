@@ -3,7 +3,7 @@
 
 ## 下载
 ```
-composer require ekeylee/wxpay
+composer require datalinkage/wxpay
 ```
 
 ## 配置
