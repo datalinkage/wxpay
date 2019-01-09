@@ -34,7 +34,8 @@ composer require datalinkage/wxpay
 'url_common_param'=>true
 ```
 现在网址的格式变成`https(http)://domain.com/MODULE/CONTROLLER/ACTION/xxx.html`
-**注意：**在访问的时候请使用`https(http)://domain.com`而不是`https(http)://domain.com/index.php`，写错了会直接改变授权位置有误
+
+*注意:*在访问的时候请使用`https(http)://domain.com`而不是`https(http)://domain.com/index.php`，写错了会直接改变授权位置有误
 
 
 ## 使用方法
